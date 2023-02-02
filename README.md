@@ -14,9 +14,11 @@ tarankovaanna@gmail.com
 
 [Тест-кейсы при тестировании формы восстановления пароля](https://docs.google.com/spreadsheets/d/1fmtciWNxP3LYKkVW586e_ykQ5VLkedqs_XsvV4C4XwA/edit?usp=sharing)
 
+[Баг-репорты, тестирование заявки на карту](https://docs.google.com/spreadsheets/d/1SdTLc6ksKsNsnPZitSNrFCZEQ3_Iqd0qCatnvjA-J4c/edit?usp=sharing)
+
 [Тест-кейсы при тестировании REST API](https://docs.google.com/spreadsheets/d/148SFqIKAf9Mxu05Jjjp0vnygh2BSo_jk-cnDx6o0Z1M/edit?usp=sharing)
 
-[Баг-репорты на ошибки, выявленные при тестировании REST API](https://docs.google.com/spreadsheets/d/1lbTs4dRUVXQzKqkhv7xrrNufmRq-stzatGH6VJ9BE_U/edit?usp=sharing)
+[Баг-репорты, тестировании REST API](https://docs.google.com/spreadsheets/d/1lbTs4dRUVXQzKqkhv7xrrNufmRq-stzatGH6VJ9BE_U/edit?usp=sharing)
 
 ## Пройденные курсы
 
