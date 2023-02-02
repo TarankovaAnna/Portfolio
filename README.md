@@ -2,18 +2,21 @@
 
 Таранкова Анна
 
+Тестировщик ПО
+
 8 (981) 809-85-85
 
 tarankovaanna@gmail.com
 
 ![photo](https://sun9-21.userapi.com/impg/LLno6L6wXjYvJLKIt99e9-bmMoTlPl75sCutFA/lXNrG9uq7SU.jpg?size=150x200&quality=95&sign=3af7a4de83642b9de7e23ba818bd0e48&type=album)
 
+## Примеры работ
 
-[Примеры тест-кейсов при тестировании формы восстановления пароля](https://docs.google.com/spreadsheets/d/1fmtciWNxP3LYKkVW586e_ykQ5VLkedqs_XsvV4C4XwA/edit?usp=sharing)
+[Тест-кейсы при тестировании формы восстановления пароля](https://docs.google.com/spreadsheets/d/1fmtciWNxP3LYKkVW586e_ykQ5VLkedqs_XsvV4C4XwA/edit?usp=sharing)
 
-[Примеры тест-кейсов при тестировании REST API](https://docs.google.com/spreadsheets/d/148SFqIKAf9Mxu05Jjjp0vnygh2BSo_jk-cnDx6o0Z1M/edit?usp=sharing)
+[Тест-кейсы при тестировании REST API](https://docs.google.com/spreadsheets/d/148SFqIKAf9Mxu05Jjjp0vnygh2BSo_jk-cnDx6o0Z1M/edit?usp=sharing)
 
-[Примеры баг-репортов на ошибки, выявленные при тестировании REST API](https://docs.google.com/spreadsheets/d/1lbTs4dRUVXQzKqkhv7xrrNufmRq-stzatGH6VJ9BE_U/edit?usp=sharing)
+[Баг-репорты на ошибки, выявленные при тестировании REST API](https://docs.google.com/spreadsheets/d/1lbTs4dRUVXQzKqkhv7xrrNufmRq-stzatGH6VJ9BE_U/edit?usp=sharing)
 
 ## Пройденные курсы
 
